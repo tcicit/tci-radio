@@ -1,19 +1,13 @@
 # tci-radio
 Create your own radio program.
 
-Ein kleines Programm um ein eigenes Radioprogramm zu erzeugen.
-Das Programm bietet die Möglichkeit zu bestimmten Zeitpunkten
-automatisch den Sender zu wechseln. 
-Das ist Praktisch wenn man wärend der Arbeit nicht duch 
-Gespräche gestört werden möchte aber die wichtigsten Nachrichten
-trotz dem nicht verpassen will.
+A small program to create your own radio program. The program offers the possibility to change the station automatically at certain times. This is useful if you don't want to be disturbed by conversations during work, but still don't want to miss the most important news.
 
-## Voraussetzungen:
+## Requirements:
 
-Es muss das Komandline Program "mpg123" instaliert und im Path vorhanden sein.
+The command line program "mpg123" must be installed and available in the path.
 https://www.mpg123.de/
 
-
-Zusätzlich wird das Python Modul "schedule" benötigt.
+In addition, the Python module "schedule" is required.
 https://github.com/dbader/schedule
 

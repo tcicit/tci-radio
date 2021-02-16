@@ -3,19 +3,13 @@
 Autor: Thoams Cigolla, 10.01.2021
 Version: 0.1
 
-Ein kleines Programm um ein eigenes Radioprogramm zu erzeugen.
-Das Programm bietet die Möglichkeit zu bestimmten Zeitpunkten
-automatisch den Sender zu wechseln. 
-Das ist Praktisch wenn man wärend der Arbeit nicht duch 
-Gespräche gestört werden möchte aber die wichtigsten Nachrichten
-trotz dem nicht verpassen will.
+Create your own radio program.
 
-Voraussetzungen:
+A small program to create your own radio program. 
+The program offers the possibility to change the station automatically at certain times. 
+This is useful if you don't want to be disturbed by conversations during work, 
+but still don't want to miss the most important news.
 
-Es muss das Komandline Program mpg123 instaliert und im Path vorhanden sein.
-https://www.mpg123.de/
-Zusätzlich wird das Python Modul schedul benötigt.
-https://github.com/dbader/schedule
 
 Copyright 2021 Thomas Cigolla <tcicit@gmail.com>
 
